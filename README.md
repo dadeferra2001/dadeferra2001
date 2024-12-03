@@ -18,7 +18,7 @@
 
 - **Frameworks**: Laravel, Django, Apache Spark, LangChain, React, Vue
 
-- **Tools**: Pandas, Polars, Git
+- **Tools**: Pandas, Polars, Git, ElasticSearch
 
 ---
 
@@ -30,7 +30,7 @@ I worked in a team of three to fine-tune three different LLMs: GPT2, BERT and XL
 
 **Lymphoma detection using data-augmentation techniques** - _Deep Learning_
 
-I worked in a team of three to find a new technique of data-augmentation on images. This technique was later used on a convolutional neural network to increase the accuract for the _lymphoma detection_ task.
+I worked in a team of three to find a new technique of data-augmentation on images. This technique was later used on a convolutional neural network to increase the accuracy for the _lymphoma detection_ task.
 
 **Automatic parking space detection from surveillance camera** - _Computer vision_
 
