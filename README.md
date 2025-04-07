@@ -4,7 +4,7 @@
 
 🎓 Currently pursuing a Master's degree in Computer Engineering - Artificial Intelligence and Robotics at the University of Padova.
 
-💼 Working as a software developer at MyCIA since June 2024.
+💼 Working as a software engineer @Solv since January 2025.
 
 🤖 Passionate about everything regarding artificial intelligence.
 
